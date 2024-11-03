@@ -1,4 +1,10 @@
-## Hi there 👋
+Hello there 👋
+
+I'm currently learning some basic hacking skills and coding skills.
+
+I'm currently working on a small game to teach Dutch people about cancer using information found on the Internet, but if you want to help me with that, I have a repository for that project.
+
+I'm also a student in the Netherlands, so I have a student account.
 
 <!--
 **quintentegg/quintentegg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
